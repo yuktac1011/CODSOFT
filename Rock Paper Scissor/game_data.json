@@ -1,0 +1,278 @@
+[
+    {
+        "Round": 1,
+        "Player": "Paper",
+        "Computer": "Paper",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 2,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 3,
+        "Player": "Scissors",
+        "Computer": "Scissors",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 4,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 5,
+        "Player": "Paper",
+        "Computer": "Scissors",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 6,
+        "Player": "Scissors",
+        "Computer": "Rock",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 7,
+        "Player": "Paper",
+        "Computer": "Scissors",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 8,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 9,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 10,
+        "Player": "Scissors",
+        "Computer": "Rock",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 11,
+        "Player": "Paper",
+        "Computer": "Rock",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 12,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 13,
+        "Player": "Paper",
+        "Computer": "Scissors",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 14,
+        "Player": "Scissors",
+        "Computer": "Rock",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 15,
+        "Player": "Paper",
+        "Computer": "Scissors",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 16,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 17,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 18,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 19,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 20,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 21,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 22,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 23,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 24,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 25,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 26,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 27,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 28,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 29,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 30,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 31,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 32,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 33,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 34,
+        "Player": "Scissors",
+        "Computer": "Scissors",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 35,
+        "Player": "Paper",
+        "Computer": "Scissors",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 36,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 37,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 38,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 39,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 40,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 41,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 42,
+        "Player": "Rock",
+        "Computer": "Rock",
+        "Result": "It's a Tie!"
+    },
+    {
+        "Round": 43,
+        "Player": "Rock",
+        "Computer": "Scissors",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 44,
+        "Player": "Rock",
+        "Computer": "Paper",
+        "Result": "Computer Wins!"
+    },
+    {
+        "Round": 45,
+        "Player": "Paper",
+        "Computer": "Rock",
+        "Result": "You Win!"
+    },
+    {
+        "Round": 46,
+        "Player": "Scissors",
+        "Computer": "Scissors",
+        "Result": "It's a Tie!"
+    }
+]
